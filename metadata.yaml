@@ -1,0 +1,40 @@
+_repo: The-Black-MothA-Romance-of-the-XVIIIth-Century_38703
+_version: 0.1.0
+alternative_title:
+- 'The Black Moth: A Romance of the 18th Century'
+- 'The Black Moth: A Romance of the Eighteenth Century'
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Heyer, Georgette
+    birthdate: 1902
+    deathdate: 1974
+    gutenberg_agent_id: '39614'
+    url: http://www.gutenberg.org/2009/agents/39614
+    wikipedia: https://en.wikipedia.org/wiki/Georgette_Heyer
+description: '"Jack Carstares, the disgraced Earl of Wyndham, left England seven long
+  years ago, sacrificing his honor for that of his brother when he was accused of
+  cheating at cards.Now Jack is back, roaming his beloved South Country in the disguise
+  of a highway-man. Not long after his return, he encounters his old adversary, the
+  notorious Duke of Andover, attempting the abduction of the beautiful Diana Beauleigh.
+  At the point of Jack''s sword, the duke is vanquished. But foiled once, the Black
+  Moth has no intention of failing again"--P. [4] of cover.'
+gutenberg_issued: '2012-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38703'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Aristocracy (Social class) -- England -- Fiction'
+- !lcsh 'Regency fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Love stories'
+- !lcsh 'Historical fiction'
+title: 'The Black Moth: A Romance of the XVIIIth Century'
+url: http://www.gutenberg.org/ebooks/38703
